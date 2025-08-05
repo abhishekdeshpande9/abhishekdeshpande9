@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Deshpande</h1>
+<h1 align="center">Hi, I'm Abhishek Deshpande</h1>
 
 Data Engineer with ~2 years of experience designing and building scalable data pipelines, ETL workflows, and data warehouse solutions across AWS and Azure. Skilled in Python, SQL, and Spark, with domain experience in Telecom, Finance, and IoT.
 
