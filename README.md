@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhishek Deshpande</h1>
 
-Final-year B.E. Electronics & Telecommunication undergrad, eager to leverage my Python, SQL, Hadoop, and Hive skills in the dynamic world of Big Data & Cloud Technologies. Currently learning PySpark and actively seeking opportunities as a Data Engineer to contribute to innovation and drive data-powered solutions.
+Data Engineer with ~2 years of experience designing and building scalable data pipelines, ETL workflows, and data warehouse solutions across AWS and Azure. Skilled in Python, SQL, and Spark, with domain experience in Telecom, Finance, and IoT.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<h3 align="left">Let's connect!:</h3>
+Passionate about building real-world, production-grade data systems and continuously deepening my knowledge in cloud-native data engineering.
+
+Currently exploring AI, ML, and Generative AI to broaden my understanding of how intelligent systems can be integrated into modern data workflows.
+
+Let’s connect:
+
 <p align="left">
-<a href="https://linkedin.com/in/abhishek-deshpande9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-deshpande9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishek-deshpande9" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-deshpande9" height="30" width="40" />
+</a>
 </p>
+
+Feel free to explore my projects below!
